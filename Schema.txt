@@ -1,0 +1,2 @@
+B#name#str#salary#int
+student#name#str#roll#int
